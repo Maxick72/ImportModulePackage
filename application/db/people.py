@@ -1,2 +1,4 @@
+from datetime import datetime
+
 def get_employees ():
-        print(__name__)
+        print(datetime.today())

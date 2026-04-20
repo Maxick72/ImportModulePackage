@@ -1,2 +1,4 @@
+from datetime import datetime
+
 def calculate_salary ():
-         print(__name__)
+         print(datetime.today())
